@@ -3,11 +3,11 @@
 }  */
 
 body {
-    background-color: lightsalmon;
+    background-color: rgb(180, 78, 172);
 }
 
 .face {
-    background-color:aquamarine;
+    background-color:rgb(26, 97, 73);
     width: 150px;
     height: 150px;
     border-radius: 50%;
